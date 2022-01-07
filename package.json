@@ -1,0 +1,13 @@
+{
+  "name": "node-red-contrib-google-cloud-credentials",
+  "version": "0.0.0",
+  "main": "cloud-credentials.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "node-red": {
+    "nodes": {
+      "cloud-credentials": "cloud-credentials.js"
+    }
+  }
+}
